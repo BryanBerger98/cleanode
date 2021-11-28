@@ -1,0 +1,15 @@
+{
+  "name": "cleanode",
+  "version": "1.0.0",
+  "description": "Create Node JS projects with Clean Architecture",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "cleanode": "./bin/cleanode.js"
+  },
+  "preferGlobal": true,
+  "author": "Bryan BERGER",
+  "license": "ISC"
+}
